@@ -3,3 +3,4 @@ I hope that this is the last time i have to teach myself this stupid program
 maybe what i will do is turn this into a github and git cheat sheet
 
 Here is the video i used: https://www.youtube.com/watch?v=iv8rSLsi1xo
+Another video to describe the github workflow: https://www.youtube.com/watch?v=wpISo9TNjfU
